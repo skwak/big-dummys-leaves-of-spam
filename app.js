@@ -56,17 +56,6 @@ app.use(function(err, req, res, next) {
   });
 });
 
-require('dotenv').load();
-
-var Algorithmia = require("algorithmia");
-
-var input = "skwak";
-Algorithmia.client(process.env.ALGORITHMIA_KEY)
-           .algo("algo://demo/Hello/0.1.1")
-           .pipe(input)
-           .then(function(output) {
-             console.log(output);
-           });
-
+var trigram = require('./trigram.js')();
 
 module.exports = app;

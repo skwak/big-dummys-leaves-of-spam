@@ -11,20 +11,41 @@ var trigram = function() {
 
   var fs = require('fs');
 
-  var input = leavesOfGrass;
 
 
-  // (function() {
-  //   Algorithmia.client(process.env.ALGORITHMIA_KEY)
-  //     .algo('algo://StanfordNLP/SentenceSplit/0.1.0')
-  //     .pipe(input)
-  //
-  //     .then(function(response) {
-  //       fs.writeFile('./text/leaves-trigram.txt', response.get(), function(err, response) {
-  //         if (err) console.log(response.error);
-  //       });
-  //     });
-  //   })();
+// 1. split Leaves of Grass into an array of sentences
+// 2. make trigrams from this array
+// 3. save to text file
+    // Algorithmia.client(process.env.ALGORITHMIA_KEY)
+    //   .algo('algo://StanfordNLP/SentenceSplit/0.1.0')
+    //   .pipe(leavesOfGrass)
+    //   .then(function(response) {
+    //     var res = response.get();
+    //     var input = [res, "xxBeGiN142xx", "xxEnD142xx", "data://.algo/temp/leaves-of-grass-trigrams.txt"];
+    //     Algorithmia.client(process.env.ALGORITHMIA_KEY)
+    //       .algo("algo://ngram/GenerateTrigramFrequencies/0.1.1")
+    //       .pipe(input)
+    //   });
+
+
+
+
+        // fs.writeFile('./text/leaves-trigram.txt', response.get(), function(err, response) {
+        //   if (err) console.log(response.error);
+
+
+  // (function sendTrigramsToAlgorithmia() {
+  //   fs.readFile('./text/leaves-trigram.txt', 'utf8', function(err, data) {
+  //     var input = [[data], "xxBeGiN142xx", "xxEnD142xx", "data://.algo/temp/leaves-trigrams2.txt"];
+  //     console.log(input);
+  //     Algorithmia.client(process.env.ALGORITHMIA_KEY)
+  //          .algo("algo://ngram/GenerateTrigramFrequencies/0.1.1")
+  //          .pipe(input)
+  //          .then(function(output) {
+  //            console.log(output);
+  //          });
+  //   });
+  // })();
 
 
   // (function() {
@@ -44,18 +65,6 @@ var trigram = function() {
   // })();
 
 
-  // (function sendTrigramsToAlgorithmia() {
-  //   fs.readFile('./text/leaves-trigram.txt', 'utf8', function(err, data) {
-  //     var input = [[data], "xxBeGiN142xx", "xxEnD142xx", "data://.algo/temp/leaves-trigrams2.txt"];
-  //     console.log(input);
-  //     Algorithmia.client(process.env.ALGORITHMIA_KEY)
-  //          .algo("algo://ngram/GenerateTrigramFrequencies/0.1.1")
-  //          .pipe(input)
-  //          .then(function(output) {
-  //            console.log(output);
-  //          });
-  //   });
-  // })();
   //
   // (function sendTrigramsToAlgorithmia() {
   //   fs.readFile('./text/big-dummies-trigram.txt', 'utf8', function(err, data) {
@@ -90,7 +99,8 @@ var trigram = function() {
 //              console.log(output);
 //            });
 //
-  }
+
+}
 
 
 module.exports = trigram;

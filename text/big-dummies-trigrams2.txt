@@ -1243,7 +1243,6 @@ require you to 2
 , ALABAMA Huntsville 1
 , ways to 1
 , 1994 TABLE 1
-, 1994 Language 1
 , 1994 by 1
 , 1994 Electronic 1
 , 1994 . 1
@@ -1606,7 +1605,6 @@ require you to 2
 , rather than 11
 , Key-stroke commands 1
 , Well , 1
-, 2012 [EBook 1
 , With the 1
 , With a 1
 , With more 1
@@ -1676,7 +1674,6 @@ require you to 2
 , acting much 1
 , dragons and 1
 , ** HOLLIS 1
-, ** Title 1
 , ** CHECK 1
 , Right now 1
 , CNS , 1
@@ -2899,7 +2896,6 @@ require you to 2
 , 000 networks 1
 , 000 people 1
 , Knoxville Using 1
-, Details Below 1
 , texts/religion directory 1
 , Started in 1
 , 99712 . 1
@@ -3199,7 +3195,7 @@ require you to 2
 , [npq] Notice 1
 , Flame wars 1
 , Flame Online 1
-, give it 2
+, give it 1
 , Log in 2
 , Log on/log 1
 , Log off 1
@@ -3360,7 +3356,7 @@ require you to 2
 , Gophers let 1
 , mget could 1
 , You no 1
-, You may 8
+, You may 7
 , You don't 3
 , You will 3
 , You might 9
@@ -3456,7 +3452,7 @@ require you to 2
 , by demodulating 1
 , by using 1
 , by its 1
-, by Electronic 2
+, by Electronic 1
 , by mid-1994 1
 , by hitting 1
 , by setting 1
@@ -5140,7 +5136,7 @@ require you to 2
 . , Today 6
 . , Gophers 6
 . , Followup 1
-. , You 102
+. , You 101
 . , Fortunately 10
 . , Telerama 1
 . , (on 2
@@ -5305,7 +5301,7 @@ require you to 2
 . , doc 1
 . , Individuals 1
 . , RealTime 1
-. , ** 3
+. , ** 2
 . , Miraculously 1
 . , Shar 1
 . , $10 10
@@ -6321,7 +6317,6 @@ require you to 2
 . rtpnc . 1
 . news . 6
 . ncsu . 1
-. org ** 1
 . org Log 1
 . org In 2
 . org Dozens 1
@@ -6351,7 +6346,7 @@ require you to 2
 . z1 . 3
 . Libros El 1
 . 80 an 2
-. gutenberg . 9
+. gutenberg . 8
 . applications , 1
 . welch . 1
 . indiana . 2
@@ -6953,7 +6948,6 @@ professors . , 1
 9 : 96 1
 9 : ADVANCED 2
 9 , 600 1
-9 , 2012 1
 9 . 1 3
 9 . 2 5
 9 . 3 3
@@ -7114,7 +7108,6 @@ professors . , 1
 : (408) 554-UNIX 1
 : fedworld . 1
 : Escape character 1
-: Big Dummy's 1
 : econet@miamiu . 1
 : ask@eff . 1
 : TELNET 6 1
@@ -7244,7 +7237,6 @@ professors . , 1
 : on a 1
 : That last 1
 : Host sumex-aim 1
-: English *** 1
 : Mail version 1
 : Looks through 1
 : Looks just 1
@@ -7298,7 +7290,6 @@ professors . , 1
 : Dept . 1
 : 27 imap 1
 : 27 : 1
-: March , 1
 : RTM . 1
 : fdabbs . 1
 : locis . 1
@@ -7452,7 +7443,7 @@ professors . , 1
 : newuser . 5
 : camms2 . 1
 : HOLLIS (press 1
-: Electronic Frontier 2
+: Electronic Frontier 1
 : MONTHLY : 1
 : prog filename 1
 : prog file1 1
@@ -7521,7 +7512,6 @@ professors . , 1
 : cas The 1
 : America Online 1
 : Sourdough/Trit 142 1
-: February 9 1
 : subscribe rferl-l 2
 : subscribe econet 1
 : subscribe group 1
@@ -8406,7 +8396,6 @@ a royalty fee 1
 a bit differently 1
 a bit in 1
 a bit more 1
-a COPYRIGHTED Project 1
 a number of 24
 a number after 1
 a defect in 2
@@ -9524,7 +9513,6 @@ the taking . 1
 the Brain Tumor 1
 the Prisoner and 1
 the copyright owner 1
-the copyright guidelines 1
 the copyright holder 5
 the copyright status 1
 the copyright holder) 1
@@ -9789,7 +9777,7 @@ the pace . 1
 the pub/photo directory 1
 the countries on 1
 the Project Gutenberg-tm 12
-the Project Gutenberg 15
+the Project Gutenberg 14
 the letter next 2
 the letter A 1
 the letter 13 1
@@ -10450,7 +10438,6 @@ the mail 9 1
 the mail header 2
 the mail program 2
 the mail , 2
-the use of 7
 the subject line 7
 the subject you're 1
 the subject of 1
@@ -10458,6 +10445,7 @@ the subject for 1
 the subject is 1
 the subject : 14
 the subject . 2
+the use of 6
 the soc . 1
 the moderator , 1
 the moderator knows 1
@@ -10684,14 +10672,13 @@ the Internet will 1
 the Internet was 2
 the Internet is 2
 the Internet services 1
-the Internet , 13
+the Internet , 12
 the Internet aimed 1
 the Internet community 1
 the Internet . 10
 the Internet as 3
 the Internet (for 1
 the Internet provide 1
-the Internet Author 1
 the Internet helps 1
 the Internet to 3
 the Internet ? 1
@@ -10752,7 +10739,7 @@ the problem . 2
 the Net's more 1
 the Net's oral 1
 the Net's power 1
-the terms of 13
+the terms of 12
 the price . 1
 the Book of 2
 the wrath of 1
@@ -11269,10 +11256,10 @@ hard drives . 1
 hard to figure 1
 hard you try 1
 pioneers . , 1
-BIG SIG There 1
-BIG DUMMY'S GUIDE 2
 headers that seem 1
 headers (which can 1
+BIG SIG There 1
+BIG DUMMY'S GUIDE 1
 help-wanted ads from 1
 ENFORCE Enforcement Report 1
 multiple quotes , 1
@@ -11311,7 +11298,6 @@ catalog and all 1
 catalog of EPA 1
 catalog , however 1
 CALCULATORS Hewlett-Packard maintains 1
-COPYRIGHTED Project Gutenberg 1
 signatures for over 1
 signatures . , 1
 un-deleted messages go 1
@@ -12345,7 +12331,7 @@ Search lots of 1
 Search gopherspace at 4
 Search Gopher Directory 4
 Search titles in 1
-This eBook is 2
+This eBook is 1
 This server was 1
 This works only 1
 This comes up 1
@@ -12383,7 +12369,7 @@ This will turn 1
 This will overwrite 1
 This was sort 1
 This was because 1
-This is a 8
+This is a 7
 This is particularly 1
 This is another 1
 This is your 1
@@ -13242,7 +13228,7 @@ THE WORLD 10 2
 THE BASICS Electronic 1
 THE CLASSROOM There 1
 THE CLASSROOM If 1
-THE INTERNET *** 2
+THE INTERNET *** 1
 THE MODEM TAX 1
 THE FILES Now 1
 THE FIRST AMENDMENT 1
@@ -13335,9 +13321,9 @@ under this paragraph 1
 under this agreement 1
 under Conversation and 1
 under Cleveland , 1
-under the laws 1
-under the terms 2
 under Weather in 1
+under the laws 1
+under the terms 1
 under Los Angeles 1
 under Baltimore , 1
 under Professional Sports 1
@@ -13588,7 +13574,7 @@ bitnet@vm . marist 1
 '' network , 1
 Big Sig Company 1
 Big Sig 4 1
-Big Dummy's Guide 13
+Big Dummy's Guide 11
 billions of bits 1
 relax . , 1
 relay first-person accounts 1
@@ -13724,18 +13710,14 @@ status by the 1
 status : (800) 1
 status (STEP) added 1
 ** ** * 1
-** ** Please 1
 ** HOLLIS DOES 1
 ** HOLLIS IS 1
 ** Access to 1
-** This is 1
-** Title : 1
 ** ***** ***** 2
 ** ***** * 1
 ** CHECK OUT 1
 ** * * 5
 ** EXAMPLES : 1
-** Please follow 1
 (i . e 1
 Usenet's international reach 1
 extraneous stuff . 1
@@ -14040,8 +14022,8 @@ use and so 1
 use and distribution 1
 use of the 6
 use of Project 1
-use of anyone 2
 use of LHARC 1
+use of anyone 1
 use of and 1
 use of archie 2
 use cat for 1
@@ -14386,7 +14368,7 @@ County . , 1
 shelter) and then 1
 -f mbox at 1
 included with the 1
-included with this 2
+included with this 1
 included in the 1
 included myself and 1
 included . , 1
@@ -15101,7 +15083,7 @@ nuts -- or 1
 nuts . , 2
 n322 . z1 3
 84116 , (801) 1
-THIS PROJECT GUTENBERG 2
+THIS PROJECT GUTENBERG 1
 THIS BEFORE YOU 1
 THIS WORK To 1
 THIS AGREEMENT WILL 1
@@ -15135,7 +15117,7 @@ Emancipation Proclamation . 1
 GUIDE MORE - 1
 GUIDE FOR MEN 1
 GUIDE : SUMMARY 1
-GUIDE TO THE 2
+GUIDE TO THE 1
 speed with a 1
 speed as their 1
 speed at which 1
@@ -15271,9 +15253,9 @@ baud modem on 1
 baud is roughly 1
 baud , you 1
 99 , 98 1
-EBook of Big 2
 van der Leun 1
 systems/mac/simtel20 directory . 1
+EBook of Big 1
 biology education chemed-l 1
 biology soc Social 1
 biology to earth 1
@@ -15632,7 +15614,6 @@ Since this is 1
 Since many messages 1
 1990s , the 1
 #wicca 4 Mr 1
-February 9 , 1
 February , 1994 1
 (Denver) . , 1
 =| : -)= 1
@@ -15875,7 +15856,7 @@ The pace may 1
 The Communications Center 1
 The California Museum 1
 The packet system 1
-The Project Gutenberg 3
+The Project Gutenberg 2
 The domain name 1
 The Middlesex News 2
 The difference is 1
@@ -16607,15 +16588,14 @@ environment , it 1
 environment . , 1
 Mitch Kapor Chairman 1
 berkeley . edu 2
-GUTENBERG -- ELECTRONIC 1
-GUTENBERG EBOOK BIG 2
-GUTENBERG LICENSE PLEASE 1
 Asia , 4 1
 SEXY ------------------------------------------------------------------------------- OPTIONS 1
+GUTENBERG -- ELECTRONIC 1
+GUTENBERG EBOOK BIG 1
+GUTENBERG LICENSE PLEASE 1
 royalties under this 1
 royalties . , 1
 Musica Para los 1
-START OF THIS 1
 START RETRIEVE to 1
 START : FULL 1
 START - search 3
@@ -16960,10 +16940,9 @@ O'Reilly and Associates 1
 O'Reilly runs three 1
 oscilloscope would look 1
 weird-looking emacs prompts 1
-Gutenberg eBook , 1
 Gutenberg -- electronic 1
-Gutenberg EBook of 2
-Gutenberg License included 2
+Gutenberg EBook of 1
+Gutenberg License included 1
 Gutenberg ) , 1
 Gutenberg is a 2
 Gutenberg is associated) 1
@@ -17293,8 +17272,8 @@ OF THE WORLD 2
 OF THE COIN 1
 OF REPLACEMENT OR 1
 OF WARRANTY OR 1
-OF THIS PROJECT 2
 OF CRISIS IRC 1
+OF THIS PROJECT 1
 Mercury's band . 1
 chose world , 1
 363-3783 . , 1
@@ -17469,7 +17448,6 @@ cern . ch 1
 envelope and mail 1
 envelope . , 1
 himself , his 1
-Details Below ** 1
 wanted or news 1
 wanted to see 1
 wanted to get 1
@@ -17657,9 +17635,9 @@ TI sex . 1
 TI SEX ------------------------------------------------------------------------------ 2
 TI Title search 1
 charts) Here we 1
-TO THE INTERNET 2
 TO OTHER NETWORKS 1
 TO NON-INTERNET SITES 2
+TO THE INTERNET 1
 TO HOLLIS (Harvard 1
 TO WARRANTIES OF 1
 TO START RETRIEVE 1
@@ -18345,7 +18323,7 @@ browse their offerings 1
 dividing Usenet into 1
 employees) . , 1
 widget |#| |#| 1
-EBOOK BIG DUMMY'S 2
+EBOOK BIG DUMMY'S 1
 test' or in 1
 differences is the 1
 differences from Usenet 1
@@ -19313,7 +19291,7 @@ at your command 3
 at these . 1
 at high speeds 1
 at major corporations 1
-at www . 2
+at www . 1
 at speeds of 1
 at speeds comparable 1
 at speeds around 1
@@ -19364,10 +19342,10 @@ at http : 4
 at : http 2
 at internet ! 1
 at little or 1
-at no cost 2
-at no additional 1
 at A 6 1
 at some Bitnet 1
+at no cost 1
+at no additional 1
 at 809 North 1
 at FDA Congressional 1
 at McGill University 2
@@ -19860,7 +19838,7 @@ by a weather 1
 by a user 1
 by NASA in 1
 by keeping this 1
-by Electronic Frontier 2
+by Electronic Frontier 1
 by many communications 1
 by people who 3
 by CompuServe for 1
@@ -20517,8 +20495,8 @@ piece of mail 1
 piece of your 1
 piece is sent 1
 piece on the 1
-Dummy's Guide to 10
 Dummy's Guide To 1
+Dummy's Guide to 8
 Dummy's Guide first 1
 Dummy's Guide . 1
 @mcimail . , 1
@@ -20690,7 +20668,7 @@ for people who 2
 for hams in 1
 for hams by 1
 for the country 1
-for the use 3
+for the use 2
 for the official 1
 for the project 2
 for the simple 1
@@ -21694,7 +21672,6 @@ in making things 1
 in Boulder , 1
 in elm or 1
 in query mode 1
-in this file 1
 in this instance 1
 in this educational 1
 in this agreement 2
@@ -22031,7 +22008,6 @@ is a separate 2
 is a registered 2
 is a program 2
 is a repository 1
-is a COPYRIGHTED 1
 is a good 2
 is a handy 1
 is a text 1
@@ -22205,7 +22181,7 @@ is needed , 1
 is needed . 7
 is divided into 1
 is provided to 1
-is for the 2
+is for the 1
 is for a 2
 is speed . 1
 is retrieving a 1
@@ -22462,7 +22438,7 @@ it is perhaps 1
 it is now 1
 it is to 1
 it is simply 1
-it , give 2
+it , give 1
 it , you'll 3
 it , though 2
 it , like 1
@@ -22571,7 +22547,7 @@ it to indicate 1
 it to yourself 2
 it to send 2
 it to you 3
-it under the 2
+it under the 1
 it under some 1
 it first . 2
 it through some 2
@@ -22627,7 +22603,7 @@ it checks to 1
 it seems like 2
 it seems to 1
 it modulates them 1
-it away or 2
+it away or 1
 it away on 1
 it blanks out 1
 it impossible . 1
@@ -23565,7 +23541,7 @@ pub/profiles directory has 1
 Joerg Heitkoetter , 1
 mb . com 1
 www . , 1
-www . gutenberg 2
+www . gutenberg 1
 than commercial Internet 1
 than folders . 1
 than maintain a 1
@@ -23786,13 +23762,13 @@ no end . 1
 no different from 2
 no log-on is 1
 no news -- 1
-no cost and 2
+no cost and 1
 no cost . 1
 no more break 1
 no one central 1
 no one owns 1
 no one is 1
-no restrictions whatsoever 2
+no restrictions whatsoever 1
 no way to 1
 no master directory 1
 no apparent reason 2
@@ -24043,7 +24019,7 @@ of the state 2
 of the databases 2
 of the work 4
 of the impact 1
-of the Project 8
+of the Project 7
 of the ARC 1
 of the system 3
 of the following 3
@@ -24271,8 +24247,8 @@ of sub-directories of 1
 of lines , 1
 of gophers and 1
 of gophers by 1
-of Big Dummy's 2
 of bulletins , 1
+of Big Dummy's 1
 of go or 1
 of Minnesota Campus 1
 of Minnesota , 1
@@ -24769,7 +24745,7 @@ of books and 1
 of books for 1
 of phone books 1
 of phone calls 1
-of anyone anywhere 2
+of anyone anywhere 1
 of supercomputer sites 1
 of FDA information 1
 of donations received 1
@@ -25428,7 +25404,7 @@ or region you're 1
 or region . 1
 or yearly fee 1
 or useful mail 2
-or re-use it 2
+or re-use it 1
 or some such 1
 or some other 2
 or some related 1
@@ -25704,7 +25680,7 @@ or followup . 1
 or 90) EBooks 1
 or due to 1
 or organizations that 1
-or online at 3
+or online at 2
 or detach or 1
 or uses it 1
 or respond to 1
@@ -26648,7 +26624,7 @@ to the article 2
 to the University 1
 to the person 2
 to the header 1
-to the Internet 25
+to the Internet 23
 to the Library 2
 to the present 1
 to the full 3
@@ -27959,7 +27935,7 @@ uu or whatever 2
 uu and hit 2
 uu . net 7
 PROJECT GUTENBERG -- 1
-PROJECT GUTENBERG EBOOK 2
+PROJECT GUTENBERG EBOOK 1
 PROJECT GUTENBERG LICENSE 1
 PROJECT GUTENBERG-tm concept 1
 untold amounts , 1
@@ -28074,7 +28050,7 @@ this : NET-106 1
 this : You 1
 this returns you 1
 this ? , 1
-this eBook or 2
+this eBook or 1
 this eBook for 1
 this eBook , 1
 this chapter assumes 1
@@ -28087,7 +28063,7 @@ this out in 1
 this file or 1
 this file to 1
 this file , 1
-this file . 3
+this file . 2
 this file on 1
 this world , 1
 this are computers 1
@@ -28221,7 +28197,6 @@ Please claim an 1
 Please try and 1
 Please indicate any 1
 Please check the 1
-Please follow the 1
 Census Information and 1
 Census . , 1
 vi , call 1
@@ -28306,8 +28281,8 @@ Internet , the 1
 Internet , expanded 1
 Internet , even 1
 Internet , v 1
-Internet , by 2
 Internet , there 1
+Internet , by 1
 Internet , (714) 1
 Internet , so 2
 Internet , send 1
@@ -28326,7 +28301,6 @@ Internet (for a 1
 Internet system administrators 1
 Internet provide telnet 1
 Internet Glossary <GLOSSARY> 1
-Internet Author : 1
 Internet helps you 1
 Internet Resources and 1
 Internet ? , 1
@@ -28388,10 +28362,10 @@ changed : he 1
 one-paragraph summaries of 2
 Guide related queries 1
 Guide for use 1
-Guide to the 10
+Guide To The 1
+Guide to the 8
 Guide to Social 3
 Guide to Harvard 1
-Guide To The 1
 Guide database/ - 1
 Guide first appeared 1
 Guide . , 1
@@ -28754,7 +28728,7 @@ terms with Unix 1
 terms imposed by 1
 terms will be 1
 terms and digests 1
-terms of the 5
+terms of the 4
 terms of use 1
 terms of this 10
 terms than are 1
@@ -29020,7 +28994,7 @@ Electronic Mall , 1
 Electronic mail -- 1
 Electronic mail , 1
 Electronic Democracy , 1
-Electronic Frontier Foundation 26
+Electronic Frontier Foundation 24
 Electronic Frontier Foundation's 1
 Electronic Periodic Table 1
 Electronic Newsstand offers 1
@@ -29293,11 +29267,10 @@ Egg how he 1
 Egg : Tracking 1
 services) for free 2
 edges off the 1
-follow the copyright 1
+follow standard fair 1
 follow the terms 1
 follow the online 1
 follow the prompts 1
-follow standard fair 1
 follow with a 1
 follow on-line prompts 1
 follow up that 1
@@ -29386,7 +29359,7 @@ FAQs related to 1
 Thing as a 1
 Thing . , 1
 whatsoever as to 1
-whatsoever . , 2
+whatsoever . , 1
 easy-to-install software . 1
 Things Considered . 1
 cranky sometimes when 1
@@ -29982,7 +29955,7 @@ almost all communications 1
 almost all ftp 1
 almost always finds 1
 almost incidentally , 1
-almost no restrictions 2
+almost no restrictions 1
 almost impossible for 1
 almost anything) would 1
 almost anywhere in 1
@@ -32388,7 +32361,6 @@ granddaughter's first words 1
 School of Information 1
 School , the 1
 School CA$H (/msg 1
-Language : English 1
 articles) , which 1
 Luthor King . 1
 in-depth look at 1
@@ -32440,9 +32412,8 @@ Access , (704) 1
 Access UNIX for 1
 PKZIP* , it 1
 regulations) , and 1
-guidelines in this 1
-guidelines for not 1
 action . , 1
+guidelines for not 1
 Lincoln . , 1
 gauge how closely 1
 SEXWA 2085 SEXY 1
@@ -33812,8 +33783,8 @@ fairly simple -- 2
 fairly simple system 1
 fairly easy to 1
 fairly long file 2
-xxBeGiN142xx The Project 1
-xxBeGiN142xx xxBeGiN142xx The 1
+xxBeGiN142xx Big Dummy's 1
+xxBeGiN142xx xxBeGiN142xx Big 1
 Entries that end 2
 WATERING HOLE Imagine 1
 Cultural de Cimarron 1
@@ -34173,7 +34144,6 @@ RETURN) or HUBS 1
 RETURN) ===> Type 1
 joining a growing 1
 joining an existing 1
-Posting Date : 1
 production of the 1
 production , promotion 1
 smallest mistake -- 1
@@ -34950,20 +34920,8 @@ uplifting . , 1
 annual reports and 1
 annual World Factbook 1
 initiatives . , 1
-Foundation Posting Date 1
-Foundation documents about 2
-Foundation Information Foreword 1
-Foundation The Project 1
-Foundation The Electronic 1
-Foundation 1993 , 1
-Foundation web page 1
-Foundation are tax 1
-Foundation and the 1
-Foundation and some 1
-Foundation and how 1
-Foundation and Michael 1
-Foundation This eBook 1
 Foundation or PGLAF) 1
+Foundation documents about 2
 Foundation was created 1
 Foundation was founded 1
 Foundation ( the 1
@@ -34977,12 +34935,22 @@ Foundation , the 2
 Foundation , how 1
 Foundation , anyone 1
 Foundation , 1001 1
+Foundation Information Foreword 1
 Foundation . , 9
 Foundation mkapor@eff . 1
+Foundation The Project 1
+Foundation The Electronic 1
 Foundation [EFF] ***************************************************************************** 1
 Foundation Project Gutenberg-tm 1
 Foundation as set 1
 Foundation at the 1
+Foundation 1993 , 1
+Foundation web page 1
+Foundation are tax 1
+Foundation and the 1
+Foundation and some 1
+Foundation and how 1
+Foundation and Michael 1
 Foundation 1001 G 1
 Foundation (EFF) is 2
 Foundation to write 1
@@ -35157,7 +35125,6 @@ popular , its 1
 popular on PC-based 1
 broken into pieces 2
 broken up into 1
-[EBook #118] Release 1
 QUIT ENTER SELECTION 1
 QUIT - exit 3
 QUIT . , 1
@@ -35634,7 +35601,6 @@ America . , 1
 $140 a year 1
 miracle cure for 1
 $144 a year 1
-Release Date : 1
 ACCESS RESTRICTIONS ** 1
 ACCESS If you 1
 adds one caution 1
@@ -35780,7 +35746,7 @@ You may see 1
 You may charge 1
 You may use 1
 You may have 1
-You may copy 2
+You may copy 1
 You may convert 1
 You will actually 1
 You will find 1
@@ -36561,9 +36527,9 @@ Europe and Israel 1
 Europe . , 2
 Received : by 1
 Terms of Use 2
-restrictions whatsoever . 2
-restrictions , and 1
 FICTION elbereth . 1
+restrictions whatsoever . 1
+restrictions , and 1
 preserve free future 1
 Clinton administration , 1
 Clinton administration . 1
@@ -37609,7 +37575,6 @@ person on IRC 1
 $250 a year 2
 starters , when 1
 Inc . , 2
-Below ** ** 1
 Below a sign 1
 supposedly more uplifting 1
 supposedly hacked information 1
@@ -38773,7 +38738,7 @@ full Internet access 2
 full refund of 2
 away the ending 1
 away as Germany 1
-away or re-use 2
+away or re-use 1
 away for a 1
 away : you 1
 away from it 2
@@ -38833,7 +38798,6 @@ Agricultural Sciences , 1
 *** #mee 1 1
 *** #wicca 4 1
 *** #jgm 1 1
-*** Big Dummy's 1
 *** #NeXT 1 1
 *** Channel Users 1
 *** HOLLIS (Harvard 1
@@ -38855,11 +38819,10 @@ Agricultural Sciences , 1
 *** #z 2 1
 *** Your host 1
 *** #RayTrace 1 1
-*** START OF 1
-*** START : 1
 *** Welcome to 1
 *** END OF 1
 *** END : 1
+*** START : 1
 *** If you 1
 *** You have 1
 titles in Gopherspace 1
@@ -39188,7 +39151,6 @@ computer to mimic 1
 (it makes sense 1
 (it allegedly is 1
 1994 TABLE OF 1
-1994 Language : 1
 1994 by the 1
 1994 Received : 1
 1994 Connection closed 1
@@ -39560,9 +39522,7 @@ Corp . in 2
 seeking to reach 1
 seeking out the 1
 Date : Sat 1
-Date : March 1
 Date : _________________________________________ 1
-Date : February 1
 Date : 20 1
 Date * CONGRESS 1
 Weather in the 1
@@ -40383,7 +40343,7 @@ may have to 4
 may have different 2
 may only be 1
 may share with 1
-may copy it 2
+may copy it 1
 may obtain a 1
 may think you've 1
 may think your 1
@@ -40780,7 +40740,6 @@ Office of Educational 1
 Office is the 1
 Office (June , 1
 shared with anyone 1
-March , 1994 1
 PL11] 1 Sep 1
 believe that the 1
 believe that for 1
@@ -41108,14 +41067,14 @@ healthy . , 1
 richer for it 1
 forever , while 1
 forever . , 2
+CB101 CROP PRODUCTION258 1
 gutenberg . org) 1
 gutenberg . org/2/4/6/8/24689 1
-gutenberg . org 3
+gutenberg . org 2
 gutenberg . org/GUTINDEX 1
 gutenberg . org/license) 1
 gutenberg . org/1/0/2/3/10234 1
 gutenberg . org/1/1/118/ 1
-CB101 CROP PRODUCTION258 1
 science-oriented discussions , 1
 whole new worlds 1
 whole new thread 1
@@ -41440,7 +41399,6 @@ INTERNET ftp . 1
 INTERNET RELAY CHAT 1
 INTERNET PROVIDERS When 1
 INTERNET MAILING LISTS 1
-INTERNET *** Big 1
 INTERNET *** ***** 1
 INTERNET gopher . 1
 nickname) followed by 1
@@ -41877,7 +41835,6 @@ copyright or other 1
 copyright in these 1
 copyright in the 1
 copyright royalties . 1
-copyright guidelines in 1
 copyright Electronic Frontier 1
 copyright holder found 1
 copyright holder , 1
@@ -42958,7 +42915,7 @@ give away the 1
 give their students 1
 give them back 1
 give it a 2
-give it away 3
+give it away 2
 give your host 1
 give . , 2
 give the President 1
@@ -43652,7 +43609,6 @@ assign you a 1
 promotion and distribution 1
 NAT GRN SUM72 1
 straightforward . , 1
-DUMMY'S GUIDE TO 2
 very specialized needs 1
 very likely that 1
 very similar to 1
@@ -43668,6 +43624,7 @@ very powerful one 1
 very well , 1
 very end of 1
 very first letter 1
+DUMMY'S GUIDE TO 1
 practice that is 1
 practice those languages 1
 Address : ________________________________________________________ 1
@@ -44477,7 +44434,6 @@ wide array of 1
 wide variety of 1
 wide range of 1
 wide spread public 1
-org ** This 1
 org Log on 1
 org In the 2
 org Dozens of 1
@@ -44843,7 +44799,7 @@ copy a Usenet 1
 copy con command) 1
 copy in lieu 1
 copy is also 1
-copy it , 2
+copy it , 1
 copy , a 1
 copy , or 1
 copy , display 1
@@ -45291,7 +45247,7 @@ nose . , 1
 cost the net 1
 cost the Net 1
 cost a lot 1
-cost and with 2
+cost and with 1
 cost of phone 1
 cost of computers 1
 cost should be 1
@@ -46688,7 +46644,7 @@ with Unix . 3
 with commercial networks 1
 with wire-service news 1
 with exploding power 1
-with almost no 2
+with almost no 1
 with subject : 1
 with several publishers 1
 with several fields 1
@@ -46730,7 +46686,7 @@ with fido . 1
 with terse instructions 1
 with viruses . 1
 with elm , 1
-with this eBook 2
+with this eBook 1
 with this file 1
 with this agreement 1
 with this form 2
@@ -46885,8 +46841,8 @@ License terms from 1
 License for all 1
 License (available with 1
 License must appear 1
-License included with 2
 License when you 1
+License included with 1
 License . , 2
 throats of people 1
 zterm . hqx 2
@@ -47103,17 +47059,16 @@ newsrc first , 1
 integration with your 1
 indication of how 1
 eecs . umich 1
+engaged Adam Gaffin 1
+emily-postnews/part1 Last-change : 1
 eBook number , 1
-eBook or online 2
+eBook or online 1
 eBook of filename 1
 eBook for nearly 1
 eBook numbers BELOW 1
 eBook is in 1
-eBook is for 2
-eBook , Details 1
+eBook is for 1
 eBook , complying 1
-engaged Adam Gaffin 1
-emily-postnews/part1 Last-change : 1
 listserv@bitnic . educom 1
 assumes you are 1
 au-ls-lRt Free 012 1
@@ -47379,7 +47334,6 @@ followed this international 1
 followed (finally ! 1
 275-2221 . , 1
 English or French) 1
-English *** START 1
 English . , 4
 English commands , 1
 English commands . 1
@@ -47477,10 +47431,9 @@ Project Gutenberg-tm and 1
 Project Gutenberg-tm electronic 18
 Project Gutenberg-tm name 1
 Project Gutenberg-tm trademark 4
-Project Gutenberg eBook 1
 Project Gutenberg -- 1
-Project Gutenberg EBook 2
-Project Gutenberg License 2
+Project Gutenberg EBook 1
+Project Gutenberg License 1
 Project Gutenberg ) 1
 Project Gutenberg is 4
 Project Gutenberg appears 1
@@ -48810,7 +48763,6 @@ additional terms imposed 1
 additional contact information 1
 additional services . 2
 excising the portions 1
-2012 [EBook #118] 1
 BINARY mode data 1
 Projects Agency (ARPA) 1
 Projects Research Agency 1
@@ -49140,7 +49092,7 @@ file , however) 2
 file an Internet 1
 file . uu 6
 file . name 12
-file . , 48
+file . , 47
 file ending with 1
 file as nn 1
 file as it's 1
@@ -49621,11 +49573,11 @@ online , coordinated 1
 online version of 3
 online . , 14
 online charges . 1
+online system features 1
 online at the 1
-online at www 2
+online at www 1
 online at http 1
 online at any 1
-online system features 1
 online directions more 1
 online even when 1
 online shops or 1
@@ -50114,7 +50066,6 @@ again so that 1
 again . , 13
 Title search SU 1
 Title General Board 1
-Title : Big 1
 Rouvali (161) First 1
 degree) . , 1
 NewsBytes computer and 2
@@ -50209,7 +50160,7 @@ versions of federal 1
 postings) and then 1
 anyone providing copies 1
 anyone in the 1
-anyone anywhere at 2
+anyone anywhere at 1
 anyone . , 1
 WITHOUT : If 1
 WITHOUT ACCESS RESTRICTIONS 1
@@ -50673,7 +50624,6 @@ Tenn . , 2
 (see) you , 1
 Contains lists of 1
 Author search TI 1
-Author : Electronic 1
 archie@quiche . cs 1
 southern Florida . 1
 Restless and all 1
@@ -52015,7 +51965,7 @@ and senior-citizen centers 1
 and up) are 1
 and Amiga computers 2
 and special subscription 1
-and with almost 2
+and with almost 1
 and with official 1
 and Apple II 1
 and Apple IIs 1
@@ -52730,7 +52680,6 @@ dump sites . 1
 anl . gov 1
 (fax . ) 1
 ans . net 1
-Frontier Foundation Posting 1
 Frontier Foundation documents 2
 Frontier Foundation was 1
 Frontier Foundation is 2
@@ -52745,9 +52694,7 @@ Frontier Foundation 1993 1
 Frontier Foundation and 2
 Frontier Foundation 1001 1
 Frontier Foundation (EFF) 2
-Frontier Foundation This 1
 Frontier Foundation's FTP 1
-#118] Release Date 1
 any follow-ups will 1
 any country outside 1
 any fees or 1
@@ -52857,7 +52804,7 @@ thought that others 1
 thought will help 1
 Stanton McCandlish , 1
 taste of what's 1
-anywhere at no 2
+anywhere at no 1
 anywhere in the 2
 anywhere within gopher 1
 anywhere else news 1
@@ -55733,7 +55680,7 @@ General . , 1
 UNIVERSITY LIBRARY UNION 1
 SELECTION --> Choose 1
 higher levels of 1
-re-use it under 2
+re-use it under 1
 doing a terrific 1
 doing this until 1
 doing right now 1

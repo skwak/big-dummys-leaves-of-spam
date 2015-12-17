@@ -1,3 +1,6 @@
-#DOING THIS BECAUSE I CAN
-There will be semi-real documentation in the vast, unknown future.
-https://github.com/algorithmiaio/shorties
+# skwak-shorties #
+
+This is a generative short story created using algorithms from [Algorithmia](https://algorithmia.com/) for their [Shorties](https://github.com/algorithmiaio/shorties) contest.
+
+Packages used:
+* [natural-gutenberg](https://www.npmjs.com/package/natural-gutenberg) to grab *Leaves of Grass*.

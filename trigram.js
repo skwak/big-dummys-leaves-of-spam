@@ -14,7 +14,6 @@ var trigram = function() {
   var input = leavesOfGrass;
 
 
-
   // (function() {
   //   Algorithmia.client(process.env.ALGORITHMIA_KEY)
   //     .algo('algo://StanfordNLP/SentenceSplit/0.1.0')
@@ -60,7 +59,7 @@ var trigram = function() {
   //
   // (function sendTrigramsToAlgorithmia() {
   //   fs.readFile('./text/big-dummies-trigram.txt', 'utf8', function(err, data) {
-  //     var input = [[data], "xxBeGiN142xx", "xxEnD142xx", "data://.algo/temp/big-dummies-trigram2.txt"];
+  //     var input = [[data], "xxBeGiN142xx", "xxEnD142xx", "data://.algo/temp/big-dummies-trigrams2.txt"];
   //     console.log(input);
   //     Algorithmia.client(process.env.ALGORITHMIA_KEY)
   //          .algo("algo://ngram/GenerateTrigramFrequencies/0.1.1")
@@ -70,7 +69,7 @@ var trigram = function() {
   //          });
   //   });
   // })();
-  //
+
 
 
 // var input = ["data://.algo/ngram/GenerateTrigramFrequencies/temp/big-dummies-trigram2.txt", "xxBeGiN142xx", "xxEnD142xx"];
@@ -91,7 +90,7 @@ var trigram = function() {
 //              console.log(output);
 //            });
 //
-// }
+  }
 
 
 module.exports = trigram;

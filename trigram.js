@@ -54,7 +54,10 @@ var trigram = function() {
     .algo("algo://lizmrush/GenerateParagraphFromTrigram/0.1.2")
     .pipe(input)
     .then(function(output) {
-      console.log(output.get());
+      var paragraph = output.get();
+      fs.appendFile('./text/beast.txt', paragraph, function(err) {
+        if (err) console.log(err);
+      })
     });
 
     // var input = [ "data://skwak/trigrams/big-dummys-trigrams.txt", "xxBeGiN142xx", "xxEnD142xx", 6 ];

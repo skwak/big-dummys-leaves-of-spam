@@ -48,8 +48,8 @@ var trigram = function() {
 //   });
 // })();
 
-
-  // var input = [ "data://skwak/trigrams/big-dummys-trigrams.txt", "xxBeGiN142xx", "xxEnD142xx", 6 ];
+// generate paragraph from The Big Dummy's Guide to the Internet and save it to the master (beast) text
+  // var input = [ "data://skwak/trigrams/big-dummys-trigrams.txt", "xxBeGiN142xx", "xxEnD142xx", 12 ];
   // Algorithmia.client(process.env.ALGORITHMIA_KEY)
   //   .algo("algo://lizmrush/GenerateParagraphFromTrigram/0.1.2")
   //   .pipe(input)
@@ -60,7 +60,8 @@ var trigram = function() {
   //     })
   //   });
 
-    // var input = [ "data://skwak/trigrams/leaves-of-grass-trigrams.txt", "xxBeGiN142xx", "xxEnD142xx", 6 ];
+// do the same for Leaves of Grass
+    // var input = [ "data://skwak/trigrams/leaves-of-grass-trigrams.txt", "xxBeGiN142xx", "xxEnD142xx", 12 ];
     // Algorithmia.client(process.env.ALGORITHMIA_KEY)
     //   .algo("algo://lizmrush/GenerateParagraphFromTrigram/0.1.2")
     //   .pipe(input)

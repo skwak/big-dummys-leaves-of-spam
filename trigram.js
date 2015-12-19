@@ -3,7 +3,7 @@ var trigram = function() {
 
   var Algorithmia = require("algorithmia");
 
-  var client = Algorithmia.client(process.env.ALGORITHMIA_KEY);
+  // var client = Algorithmia.client(process.env.ALGORITHMIA_KEY);
 
   var naturalGutenberg = require('natural-gutenberg');
 
@@ -24,81 +24,53 @@ var trigram = function() {
     //     var input = [res, "xxBeGiN142xx", "xxEnD142xx", "data://.algo/temp/leaves-of-grass-trigrams.txt"];
     //     Algorithmia.client(process.env.ALGORITHMIA_KEY)
     //       .algo("algo://ngram/GenerateTrigramFrequencies/0.1.1")
-    //       .pipe(input)
+    //       .pipe(input);
     //   });
 
 
-
-
-        // fs.writeFile('./text/leaves-trigram.txt', response.get(), function(err, response) {
-        //   if (err) console.log(response.error);
-
-
-  // (function sendTrigramsToAlgorithmia() {
-  //   fs.readFile('./text/leaves-trigram.txt', 'utf8', function(err, data) {
-  //     var input = [[data], "xxBeGiN142xx", "xxEnD142xx", "data://.algo/temp/leaves-trigrams2.txt"];
-  //     console.log(input);
-  //     Algorithmia.client(process.env.ALGORITHMIA_KEY)
-  //          .algo("algo://ngram/GenerateTrigramFrequencies/0.1.1")
-  //          .pipe(input)
-  //          .then(function(output) {
-  //            console.log(output);
-  //          });
-  //   });
-  // })();
-
-
-  // (function() {
-  //   fs.readFile('./text/big-dummies.txt', 'utf8', function(err, data) {
-  //     if (err) console.log(err);
-  //
-  //     Algorithmia.client(process.env.ALGORITHMIA_KEY)
-  //       .algo('algo://StanfordNLP/SentenceSplit/0.1.0')
-  //       .pipe(data)
-  //       .then(function(response) {
-  //         fs.writeFile('./text/big-dummies-trigram.txt', response.get(), function(err, response) {
-  //           if (err) console.log(response.error);
-  //         });
-  //       });
-  //
-  //   });
-  // })();
-
-
-  //
-  // (function sendTrigramsToAlgorithmia() {
-  //   fs.readFile('./text/big-dummies-trigram.txt', 'utf8', function(err, data) {
-  //     var input = [[data], "xxBeGiN142xx", "xxEnD142xx", "data://.algo/temp/big-dummies-trigrams2.txt"];
-  //     console.log(input);
-  //     Algorithmia.client(process.env.ALGORITHMIA_KEY)
-  //          .algo("algo://ngram/GenerateTrigramFrequencies/0.1.1")
-  //          .pipe(input)
-  //          .then(function(output) {
-  //            console.log(output);
-  //          });
-  //   });
-  // })();
-
-
-
-// var input = ["data://.algo/ngram/GenerateTrigramFrequencies/temp/big-dummies-trigram2.txt", "xxBeGiN142xx", "xxEnD142xx"];
-// Algorithmia.client(process.env.ALGORITHMIA_KEY)
-//            .algo("algo://ngram/RandomTextFromTrigram/0.1.1")
-//            .pipe(input)
-//            .then(function(output) {
-//              console.log(output);
-//            });
+// do the same for The Big Dummy's Guide to the Internet
+// (function() {
+//   fs.readFile('./text/big-dummys.txt', 'utf8', function(err, data) {
 //
-// }
-
-// var input = ["data://.algo/ngram/GenerateTrigramFrequencies/temp/leaves-trigrams2.txt", "xxBeGiN142xx", "xxEnD142xx"];
-// Algorithmia.client(process.env.ALGORITHMIA_KEY)
-//            .algo("algo://ngram/RandomTextFromTrigram/0.1.1")
-//            .pipe(input)
-//            .then(function(output) {
-//              console.log(output);
-//            });
+//     if (err) console.log(err);
 //
+//     Algorithmia.client(process.env.ALGORITHMIA_KEY)
+//       .algo('algo://StanfordNLP/SentenceSplit/0.1.0')
+//       .pipe(data)
+//       .then(function(response) {
+//         var res = response.get();
+//         console.log(res);
+//         var input = [res, "xxBeGiN142xx", "xxEnD142xx", "data://.algo/temp/big-dummys-trigrams.txt"];
+//         Algorithmia.client(process.env.ALGORITHMIA_KEY)
+//           .algo("algo://ngram/GenerateTrigramFrequencies/0.1.1")
+//           .pipe(input);
+//       });
+//   });
+// })();
+
+
+  var input = [ "data://skwak/trigrams/big-dummys-trigrams.txt", "xxBeGiN142xx", "xxEnD142xx", 6 ];
+  Algorithmia.client(process.env.ALGORITHMIA_KEY)
+    .algo("algo://lizmrush/GenerateParagraphFromTrigram/0.1.2")
+    .pipe(input)
+    .then(function(output) {
+      console.log(output.get());
+    });
+
+    // var input = [ "data://skwak/trigrams/big-dummys-trigrams.txt", "xxBeGiN142xx", "xxEnD142xx", 6 ];
+    // Algorithmia.client(process.env.ALGORITHMIA_KEY)
+    //   .algo("algo://lizmrush/GenerateParagraphFromTrigram/0.1.2")
+    //   .pipe(input)
+    //   .then(function(output) {
+    //     var paragraph = output.get();
+    //     var input = paragraph;
+    //       Algorithmia.client(process.env.ALGORITHMIA_KEY)
+    //        .algo("algo://SummarAI/Summarizer/0.1.2")
+    //        .pipe(input)
+    //        .then(function(output) {
+    //          console.log(output.get());
+    //        });
+    //   });
 
 }
 

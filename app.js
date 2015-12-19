@@ -58,4 +58,6 @@ app.use(function(err, req, res, next) {
 
 var trigram = require('./trigram.js')();
 
+var tweets = require('./tweets.js')();
+
 module.exports = app;

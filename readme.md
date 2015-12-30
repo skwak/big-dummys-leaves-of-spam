@@ -1,4 +1,4 @@
-# Autobiography of the Internet #
+# Diary of the Internet For One Day#
 
 This is a generative short story created using algorithms from [Algorithmia](https://algorithmia.com/) for their [Shorties](https://github.com/algorithmiaio/shorties) contest.
 

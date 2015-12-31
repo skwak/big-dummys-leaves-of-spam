@@ -58,8 +58,7 @@ app.use(function(err, req, res, next) {
 
 var trigram = require('./trigram.js')();
 
-var tweets = require('./tweets.js')();
+var finalize = require('./finalize.js')();
 
-var randomize = require('./randomize.js')();
 
 module.exports = app;

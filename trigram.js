@@ -93,7 +93,7 @@ var trigram = function() {
     //   });
 
 // do the same for Beast
-    // var input = [ "data://skwak/trigrams/beast-trigrams.txt", "xxBeGiN142xx", "xxEnD142xx", 120 ];
+    // var input = [ "data://skwak/trigrams/beast-trigrams.txt", "xxBeGiN142xx", "xxEnD142xx", 100 ];
     //   Algorithmia.client(process.env.ALGORITHMIA_KEY)
     //     .algo("algo://lizmrush/GenerateParagraphFromTrigram/0.1.2")
     //     .pipe(input)

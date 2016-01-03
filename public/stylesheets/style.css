@@ -1,9 +1,37 @@
+.tri-text {
+  padding: 4px;
+  width: 10%;
+  position: absolute;
+  font: 12pt "Consolas", "Monaco", Helvetica, sans-serif;
+  color: #fff;
+  z-index: 2;
+}
+
+#black-triangle {
+	width: 0;
+	height: 0;
+	border-top: 200px solid #000;
+	border-right: 200px solid transparent;
+}
+
 body {
-  padding: 50px;
+  padding: 0px;
+  margin: 0px;
   font: 20pt "Consolas", "Monaco", Helvetica, sans-serif;
 }
 
+h1 {
+  text-align: center;
+}
+
+#spam {
+  width: 20%;
+  padding-left: 35%;
+  padding-right: 35%;
+}
+
 p {
+  padding: 5%;
 }
 a {
   color: #00B7FF;

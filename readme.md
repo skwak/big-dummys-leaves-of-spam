@@ -1,14 +1,18 @@
-# Leaves of Spam #
+# Big Dummy's Leaves of Spam #
 *The Great American Experimental Story*
 
 ## Texts ##
 
 * [*Leaves of Grass*](http://www.gutenberg.org/cache/epub/1322/pg1322.txt) by Walt Whitman
-Why used? It's part of the American canon, with a strong sense of individuality and geography. It's also very recognizable, and I thought that poetry could help emphasize the strange poetic nature of spam.
+Why used? It's part of the American canon, with a strong sense of individuality and geography. It's also very recognizable, and I thought that poetry could help emphasize the strange poetic nature of spam and political and tech-oriented text.
 
 * *Select Works From My Gmail Spam*
-Email spam, as well as the canned precooked meat, are both visually strange amalgamations of American technologies and commerce. I sometimes will read my spam to read the text that gets added in order to bypass spam filters.
+Email spam, as well as the canned precooked meat, are both visually strange amalgamations of American technologies and commerce. Sort of represents the dark, commercial side of the Internet.
 
+* [*Big Dummy's Guide to the Internet](http://www.gutenberg.org/cache/epub/118/pg118.txt) by Electronic Frontier Foundation
+Serves as sort of balance to all the spam, as well as emphasizes the subject of the Internet as a territory.
+
+*
 ## What I used ##
 * [Algorithmia](https://www.npmjs.com/package/algorithmia)
     * [Sentence Split](https://algorithmia.com/algorithms/StanfordNLP/SentenceSplit)

@@ -4,7 +4,7 @@ var fs = require('fs');
 /* GET home page. */
 router.get('/', function(req, res, next) {
   fs.readFile('./text/leaves-of-spam.txt', 'utf8', function(err, data) {
-    res.render('index', { title: 'Leaves of Spam', text: data} );
+    res.render('index', { title: "Big Dummy's Leaves of Spam", text: data} );
   });
 
 });

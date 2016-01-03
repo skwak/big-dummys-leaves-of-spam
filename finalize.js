@@ -1,9 +1,9 @@
 var finalize = function() {
-  var fs = require('fs');
-  var finalText = [];
-  var Algorithmia = require("algorithmia");
-
-  // This is where I format everything and improve the grammar and flow a bit
+  // var fs = require('fs');
+  // var finalText = [];
+  // var Algorithmia = require("algorithmia");
+  //
+  // // This is where I format everything and improve the grammar and flow a bit
   // (function() {
   //   fs.readFile('./text/final-beast.txt', 'utf8', function(err, data) {
   //     if (err) console.log(err);
@@ -24,6 +24,7 @@ var finalize = function() {
   //         delete arr[i];
   //       }
   //
+  //
   //       if (typeof arr[i] !== 'undefined') {
   //
   //         if (arr[i][0] === "'") {
@@ -42,7 +43,16 @@ var finalize = function() {
   //           arr[i] = newString;
   //         }
   //
-  //         console.log(arr[i] + " " + arr[i].length);
+  //         if (arr[i][length - 2] + arr[i][length - 1] === "  ") {
+  //           var bestString = arr[i].substring(0, length - 2);
+  //           arr[i] = bestString;
+  //         }
+  //
+  //         if (arr[i][length - 1] === " ") {
+  //           var bestString = arr[i].substring(0, length - 1);
+  //           arr[i] = bestString;
+  //         }
+  //
   //
   //         if (i % 2 === 0) {
   //           arr[i] = arr[i] + ". ";
@@ -78,6 +88,7 @@ var finalize = function() {
   //
   //   })
   // })();
+
 
 };
 

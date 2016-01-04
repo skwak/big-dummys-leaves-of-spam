@@ -1,6 +1,6 @@
 # Big Dummy's Leaves of Spam #
 *The Great American Experimental Story*
-https://leaves-of-spam.herokuapp.com/
+* https://leaves-of-spam.herokuapp.com/
 
 ## Texts ##
 

@@ -18,6 +18,7 @@ body {
   padding: 0px;
   margin: 0px;
   font: 20pt "Consolas", "Monaco", Helvetica, sans-serif;
+  background-color: rgb(185, 254, 209);
 }
 
 h1 {
@@ -37,8 +38,4 @@ p, #spammy-text {
 a {
   color: #00B7FF;
   text-decoration: none;
-}
-
-.spammy-text {
-
 }

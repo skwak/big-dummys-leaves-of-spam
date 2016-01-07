@@ -4,7 +4,7 @@ var finalize = function() {
   var Algorithmia = require("algorithmia");
 
   // // This is where I format everything and improve the grammar and flow a bit
-  // (function() {
+  (function() {
     fs.readFile('./text/final-beast.txt', 'utf8', function(err, data) {
       if (err) console.log(err);
 

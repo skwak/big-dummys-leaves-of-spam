@@ -2,7 +2,7 @@ var trigram = function() {
   require('dotenv').load();
 
   var Algorithmia = require("algorithmia");
-//
+
   var naturalGutenberg = require('natural-gutenberg');
 
   var leavesOfGrass = naturalGutenberg['whitman-leaves'];

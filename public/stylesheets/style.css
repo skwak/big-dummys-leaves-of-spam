@@ -10,8 +10,8 @@
 #black-triangle {
 	width: 0;
 	height: 0;
-	border-top: 200px solid #000;
-	border-right: 200px solid transparent;
+	border-top: 250px solid #000;
+	border-right: 250px solid transparent;
 }
 
 body {

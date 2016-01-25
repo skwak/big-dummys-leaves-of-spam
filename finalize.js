@@ -1,7 +1,7 @@
 var finalize = function() {
   var fs = require('fs');
   var finalText = [];
-  var Algorithmia = require("algorithmia");
+  // var Algorithmia = require("algorithmia");
 
   // // This is where I format everything and improve the grammar and flow a bit
   (function() {

@@ -5,7 +5,7 @@ Read it!
 * https://leaves-of-spam.herokuapp.com/
 
 ## What is it? ##
-It's a generative short story I made for [Algorithmia](https://algorithmia.com/)'s [Shorties](https://github.com/algorithmiaio/shorties) contest. Creative coding! 
+It's a generative short story I made for [Algorithmia](https://algorithmia.com/)'s [Shorties](https://github.com/algorithmiaio/shorties) contest. Creative coding!
 
 ## What I used ##
 * [Algorithmia](https://www.npmjs.com/package/algorithmia)
@@ -30,3 +30,6 @@ Email spam, as well as the canned precooked meat, are both visually strange amal
 * [*Big Dummy's Guide to the Internet*](http://www.gutenberg.org/cache/epub/118/pg118.txt) by Electronic Frontier Foundation
 
 Serves as sort of balance to all the spam, as well as emphasizes the subject of the Internet as a territory.
+
+## Update! ##
+★ [This story won the Algorithmia contest!](http://blog.algorithmia.com/2016/01/winners-of-the-algorithmia-shorties-contest-announced/)★ 
